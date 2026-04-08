@@ -1,0 +1,13 @@
+# Maven / Java
+**/target/
+*.class
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Node / frontend build
+node_modules/
+dist/
+
